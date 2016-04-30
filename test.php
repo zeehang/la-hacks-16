@@ -9,7 +9,7 @@ echo "Hello World!";
 
 $servername = "us-cdbr-azure-west-c.cloudapp.net";
 $username = "us-cdbr-azure-west-c.cloudapp.net";
-$password = "54";
+$password = "d8c5ce24";
 
 $conn = new mysqli($servername, $username, $password);
 
