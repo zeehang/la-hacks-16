@@ -7,7 +7,7 @@
 <?php
 echo "Hello World!";
 
-$servername = "us-cdbr-azure-west-c.cloudapp.net";
+$servername = "b1ebbfedb362d1";
 $username = "us-cdbr-azure-west-c.cloudapp.net";
 $password = "d8c5ce24";
 
